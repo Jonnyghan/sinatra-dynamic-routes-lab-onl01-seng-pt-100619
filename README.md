@@ -1,4 +1,4 @@
-# Sinatra Dynamic Routes Lab
+#(nu Sinatra Dynamic Routes Lab
 
 ## Overview
 This lab will serve to reinforce your understanding of routes in a Sinatra application. Complete the following tasks in your application controller and get all of the `learn` tests to pass.
